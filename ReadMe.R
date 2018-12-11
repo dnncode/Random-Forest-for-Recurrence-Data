@@ -14,7 +14,10 @@
 # Data
 # ---------------------------------------------------------------
 # ---------------------------------------------------------------
-# Two sample data sets are provided (download the data.zip file from GitHub)
+# Data set is too big to be uploaded to GitHub (with 25Mb size limit)
+# Data are available from my Google Drive (https://drive.google.com/file/d/1z_DdNrHdX6zF844SfEfqt3ZOqClFoTF4/view?usp=drive_web)
+
+# Two sample data sets are provided
 # The folder Example1 contains "dataset A" in the paper
 # The folder Example1b contains "dataset B" in the paper
 # The folder CaseStudy1 contains cast study data in the paper

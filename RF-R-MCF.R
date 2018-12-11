@@ -6,6 +6,14 @@
 
 # ---------------------------------------------------------------
 # ---------------------------------------------------------------
+# Data
+# ---------------------------------------------------------------
+# ---------------------------------------------------------------
+# Data set is too big to be uploaded to GitHub (with 25Mb size limit)
+# Data are available from my Google Drive (https://drive.google.com/file/d/1z_DdNrHdX6zF844SfEfqt3ZOqClFoTF4/view?usp=drive_web)
+
+# ---------------------------------------------------------------
+# ---------------------------------------------------------------
 # RF-R: Random Forests for Repairable System Reliability Analysis
 # This version of code handles both the static system attributes and dynamic sensor measurement
 # (RF-R-MCF.R is the code that handles only the static sytem attributes)

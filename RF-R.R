@@ -6,6 +6,14 @@
 
 # ---------------------------------------------------------------
 # ---------------------------------------------------------------
+# Data
+# ---------------------------------------------------------------
+# ---------------------------------------------------------------
+# Data set is too big to be uploaded to GitHub (with 25Mb size limit)
+# Data are available from my Google Drive (https://drive.google.com/file/d/1z_DdNrHdX6zF844SfEfqt3ZOqClFoTF4/view?usp=drive_web)
+
+# ---------------------------------------------------------------
+# ---------------------------------------------------------------
 # RF-R: Random Forests for Repairable System Reliability Analysis
 # This version of code handles both the static system attributes and dynamic sensor measurement
 # (RF-R-MCF.R is the code that handles only the static sytem attributes)
@@ -64,7 +72,7 @@ if (CaseStudy1){
   X = read.csv("CaseStudy1/x.table.csv",header=TRUE,stringsAsFactors = FALSE)
   # X: a matrix that contains static system attributes
   # dim(X): number of systems X number of system attributes
-  load("CaseStudy1/z.list.RData")  # z.list is loaded
+  load("CaseStudy1/z.list.RData")  # z.list is loaded (z.list.RData is too large to be uploaded to GitHub with 25Mb size limit)
   # z.list is a list that contains the dynamic sensor measurement
   # dim(z.list): number of systems
   # Each element of z.list is a matrix
