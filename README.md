@@ -44,15 +44,4 @@
 # Dependencies: SNOW (Simple Network of Workstations) package in R for parallel computing
 # It is highly recommended to run the code on HPC facilities, especially for large data sets
 
-# ---------------------------------------------------------------
-# ---------------------------------------------------------------
-# For questions, please contact:
-# ---------------------------------------------------------------
-# ---------------------------------------------------------------
-# Xiao Liu, Dept of Industrial Engineering
-# 4174 Bell Engineering Center
-# University of Arkansas
-# e-mail: xl027@uark.edu
-# https://sites.google.com/site/liuxiaosite1/
 
-# --------------- END -----------------------
